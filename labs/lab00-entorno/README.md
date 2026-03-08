@@ -71,6 +71,7 @@ Este laboratorio contiene los siguientes ejercicios:
 ```
 01-preparar-entorno.md
 02-instalar-herramientas.md
+03-entorno-docker-compose.md
 ```
 
 Cada ejercicio introduce pequeños pasos que permiten validar el entorno antes de avanzar al resto del curso.
